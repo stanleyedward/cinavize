@@ -1,0 +1,4 @@
+2.save and load model
+3. implement encoding for collaboratory filtering 
+1.implement k-fold cross validation (increased performance)
+
