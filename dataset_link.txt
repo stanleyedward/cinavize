@@ -1,0 +1,3 @@
+dataset: https://www.kaggle.com/datasets/evanschreiner/netflix-movie-ratings
+test_dataset: http://files.grouplens.org/datasets/movielens/ml-100k.zip
+test_datset2:http://files.grouplens.org/datasets/movielens/ml-1m.zip
