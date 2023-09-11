@@ -10,3 +10,6 @@ modularization
 modularity testing _scriptMode.ipynb
 sae_model.pth
 100k_testing_sae.ipynb
+datasets/
+ml-100k/
+models/

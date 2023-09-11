@@ -1,3 +1,13 @@
-dataset: https://www.kaggle.com/datasets/evanschreiner/netflix-movie-ratings
-test_dataset: http://files.grouplens.org/datasets/movielens/ml-100k.zip
-test_datset2:http://files.grouplens.org/datasets/movielens/ml-1m.zip
+
+dataset: https://grouplens.org/datasets/movielens/
+
+latest-small[1MB-->3MB]: https://files.grouplens.org/datasets/movielens/ml-latest-small.zip
+Small: 100,000 ratings and 3,600 tag applications applied to 9,000 movies by 600 users. Last updated 9/2018.
+
+latest[335MB-->1.5GB]: https://grouplens.org/datasets/movielens/latest/
+Full: approximately 33,000,000 ratings and 2,000,000 tag applications applied to 86,000 movies by 330,975 users. 
+Includes tag genome data with 14 million relevance scores across 1,100 tags. Last updated 9/2018.
+
+ml-25m[250MB-->1.2GB]: https://grouplens.org/datasets/movielens/25m/ 
+ MovieLens 25M movie ratings. Stable benchmark dataset. 25 million ratings and one million tag applications applied to 62,000 movies 
+ by 162,000 users. Includes tag genome data with 15 million relevance scores across 1,129 tags. Released 12/2019 
