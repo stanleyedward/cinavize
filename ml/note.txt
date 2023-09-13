@@ -1,0 +1,1 @@
+when the model is making predictions we must hard code it into the CPU has hugging face has paywalled gpu computations
